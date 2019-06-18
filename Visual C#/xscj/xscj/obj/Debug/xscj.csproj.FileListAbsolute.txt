@@ -1,0 +1,22 @@
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\bin\Debug\xscj.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\bin\Debug\xscj.exe
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\bin\Debug\xscj.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\obj\Debug\xscj.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\obj\Debug\xscj.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\obj\Debug\xscj.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\obj\Debug\xscj.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\obj\Debug\xscj.exe
+c:\users\administrator\documents\visual studio 2013\Projects\xscj\xscj\obj\Debug\xscj.pdb
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\obj\Debug\xscj.csprojAssemblyReference.cache
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\obj\Debug\xscj.Form1.resources
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\obj\Debug\xscj.Properties.Resources.resources
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\obj\Debug\xscj.csproj.GenerateResource.cache
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\obj\Debug\xscj.csproj.CoreCompileInputs.cache
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\obj\Debug\xscj.exe
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\obj\Debug\xscj.pdb
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\bin\Debug\xscj.exe.config
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\bin\Debug\xscj.exe
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\bin\Debug\xscj.pdb
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\obj\Debug\xscj.csproj.CopyComplete
+C:\Users\17520\Desktop\源程序1\源程序\Visual C#\xscj\xscj\bin\Debug\Oracle.DataAccess.dll
