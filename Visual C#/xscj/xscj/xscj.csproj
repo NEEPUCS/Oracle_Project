@@ -76,6 +76,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DSKcm.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DZYJ.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DZYJ.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +111,17 @@
     </None>
     <None Include="DSKcm.xss">
       <DependentUpon>DSKcm.xsd</DependentUpon>
+    </None>
+    <None Include="DZYJ.xsc">
+      <DependentUpon>DZYJ.xsd</DependentUpon>
+    </None>
+    <None Include="DZYJ.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DZYJ.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DZYJ.xss">
+      <DependentUpon>DZYJ.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
